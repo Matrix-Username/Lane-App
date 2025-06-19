@@ -67,6 +67,12 @@ Created by **Nazar Sladkovskyi** — Android Developer, reverse engineer
 
 ---
 
+## 🛜 Download
+
+https://sklane.com
+
+---
+
 ## 🚀 Status
 
 > Project is in active development. Version 2.0 will include collaborative playlists, AI-powered recommendations, and offline sync.
